@@ -1,16 +1,21 @@
-## Hi there 👋
+## 🚀 What I work with
 
-<!--
-**VinayMatsa/VinayMatsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Apps & Automation:** Power Apps (Canvas & Model-Driven), Power Automate, Power Pages
+- **AI & Intelligence:** Microsoft Copilot Studio, AI Builder (Document Processing, Prompts via Azure OpenAI, OCR)
+- **Data:** Dataverse, SharePoint Online, SQL Server, REST APIs, Custom Connectors
+- **Governance & ALM:** Solutions, Environment Strategy, DLP Policies, Power Platform Pipelines, Azure DevOps
+- **Dev:** JavaScript, C# (.NET Core), Git & GitHub
 
-Here are some ideas to get you started:
+## 🏆 A few highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Delivered 14+ enterprise Power Platform solutions across Life Sciences, HR, Finance, and Commercial Operations
+- Built an AI-powered regulatory compliance platform processing 800–1,000 emails/month with zero missed deadlines
+- Estimated 9,000+ hours and ~$230,000 USD saved annually across delivered solutions
+
+## 📜 Certifications
+
+`PL-200` Power Platform Functional Consultant · `PL-100` Power Platform App Maker · `PL-900` Power Platform Fundamentals
+
+## 📫 Let's connect
+
+[LinkedIn](https://linkedin.com/in/vinaymatsa-6b579716b)
