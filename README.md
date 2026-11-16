@@ -1,21 +1,36 @@
-## 🚀 What I work with
+# Hi, I'm Vinay Matsa 👋
 
-- **Apps & Automation:** Power Apps (Canvas & Model-Driven), Power Automate, Power Pages
-- **AI & Intelligence:** Microsoft Copilot Studio, AI Builder (Document Processing, Prompts via Azure OpenAI, OCR)
-- **Data:** Dataverse, SharePoint Online, SQL Server, REST APIs, Custom Connectors
-- **Governance & ALM:** Solutions, Environment Strategy, DLP Policies, Power Platform Pipelines, Azure DevOps
-- **Dev:** JavaScript, C# (.NET Core), Git & GitHub
+**Power Platform Developer** · Copilot Studio · Azure OpenAI · Dataverse · Power Apps · Power Automate  
+Microsoft Certified: **PL-400 · PL-200 · PL-900** · Hyderabad, India
 
-## 🏆 A few highlights
+I build business apps, automation and AI agents on Microsoft Power Platform. Nearly 5 years at TCS delivering 14+ solutions for a global pharmaceutical client, serving 500+ users and saving an estimated 8,000+ hours (about USD 200K) a year.
 
-- Delivered 14+ enterprise Power Platform solutions across Life Sciences, HR, Finance, and Commercial Operations
-- Built an AI-powered regulatory compliance platform processing 800–1,000 emails/month with zero missed deadlines
-- Estimated 9,000+ hours and ~$230,000 USD saved annually across delivered solutions
+## 📂 Featured projects
+
+| Project | What it shows |
+|---|---|
+| [Vink Customer Care Agent](https://github.com/VinayMatsa/vink-customer-care-agent) | Copilot Studio agent with generative orchestration, 9 agent flows as tools, AI ticket triage, an autonomous trigger, and a Dataverse model with a model-driven staff app |
+| [Leave Management System](https://github.com/VinayMatsa/power-platform-leave-management) | Dataverse, model-driven and canvas apps, form JavaScript, a Custom API with a C# plugin and business event, a custom connector, and approval flows |
+
+## 🛠️ What I work with
+
+- **Apps:** Power Apps (Canvas and Model-Driven), Power Fx
+- **Automation:** Power Automate cloud flows, Approvals, Adaptive Cards, Microsoft Teams
+- **AI and agents:** Copilot Studio, Azure OpenAI, AI Builder (Document Processing, Prompts), prompt engineering, human-in-the-loop
+- **Data and integration:** Dataverse, SharePoint Online, SQL Server, REST APIs, custom connectors (OAuth 2.0)
+- **Pro-code:** JavaScript (Client API), C# plugins, Custom APIs
+- **ALM and governance:** Solutions, environment variables, Power Platform Pipelines, PAC CLI, GitHub Actions, DLP policies, Managed Environments
+
+## 🏆 Highlights
+
+- Regulatory email intake with AI Builder OCR and Azure OpenAI: 800 to 1,000 emails a month, handling time cut from about 27 to 9 minutes per email
+- Intelligent Document Processing model extracting 53 fields from PDF reports: Runner-Up at the TCS Engineering & Innovation Summit 2025
+- 14+ TCS On-the-Spot awards for project delivery
 
 ## 📜 Certifications
 
-`PL-200` Power Platform Functional Consultant · `PL-100` Power Platform App Maker · `PL-900` Power Platform Fundamentals
+`PL-400` Power Platform Developer Associate · `PL-200` Power Platform Functional Consultant Associate · `PL-900` Power Platform Fundamentals
 
-## 📫 Let's connect
+## 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/vinaymatsa-6b579716b)
+[LinkedIn](https://www.linkedin.com/in/vinay-matsa-6b579716b)
